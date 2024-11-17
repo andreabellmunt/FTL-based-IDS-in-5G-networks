@@ -72,7 +72,20 @@ The file structure is the following:
 │   │   │   └── w_geo_imb2_5_1.hdf5
 │   │   ├── Local and Global DET-IMBALANCED3 models
 │   │   │   ├── FL
+│   │   │   │   ├── desktop.ini
+│   │   │   │   ├── node0w_geo_imb3_5_1.keras
+│   │   │   │   ├── node1w_geo_imb3_5_1.keras
+│   │   │   │   ├── node2w_geo_imb3_5_1.keras
+│   │   │   │   ├── node3w_geo_imb3_5_1.keras
+│   │   │   │   ├── node4w_geo_imb3_5_1.keras
+│   │   │   │   └── w_geo_imb3_5_1.hdf5
 │   │   │   └── FTL
+│   │   │       ├── desktop.ini
+│   │   │       ├── node0w_ftl_imb3.hdf5
+│   │   │       ├── node1w_ftl_imb3.hdf5
+│   │   │       ├── node2w_ftl_imb3.hdf5
+│   │   │       ├── node3w_ftl_imb3.hdf5
+│   │   │       └── node4w_ftl_imb3.hdf5
 │   │   ├── Local and Global DET-UNIFORM models
 │   │   │   ├── desktop.ini
 │   │   │   ├── node0w_geo_unif_5_1.keras
@@ -101,6 +114,7 @@ The file structure is the following:
 │   ├── partitions_bot.ipynb
 │   └── partitions_det.ipynb
 └── requirements.txt
+
 ```
 
 There are three different folders in the repository to be taken into account. The first one is `datasets`, 
