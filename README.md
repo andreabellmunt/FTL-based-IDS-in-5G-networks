@@ -124,3 +124,6 @@ This project has been based by Rodríguez, E.; Valls, P.; Otero, B.; Costa, J.J.
 
 The Github repository for the code is: https://github.com/polvalls9/Transfer-Learning-Based-Intrusion-Detection-in-5G-and-IoT-Networks.git 
 
+For the datasets being used: 
+- **Bot-IoT**: https://research.unsw.edu.au/projects/bot-iot-dataset 
+- **UNSW-NB15**: https://research.unsw.edu.au/projects/unsw-nb15-dataset 
