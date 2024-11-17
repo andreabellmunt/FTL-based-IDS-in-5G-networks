@@ -110,12 +110,12 @@ Then, there is the `models` folder, which contains the different evaluated model
 
 Finally, the `notebooks` folder contains all the code that has been used to create all datasets, train the models, and evaluate them. Each file has the following content: 
 
-    * `FL_W.ipynb`: File for training FL models. Includes functions for each aggregation function. 
-    * `FTL.ipynb`: File for training FTL models. 
-    * `creation_det_test.ipynb`: Generation of the DET_TEST dataset. 
-    * `evaluation.ipynb`: Evaluation code to determine evaluation metrics of certain model. 
-    * `partitions_bot.ipynb`: Creation of the Bot-IoT dataset partitions. 
-    * `partitions_det.ipynb`: Creation of the UNSW-NB15 dataset partitions. 
+    * FL_W.ipynb: File for training FL models. Includes functions for each aggregation function. 
+    * FTL.ipynb: File for training FTL models. 
+    * creation_det_test.ipynb: Generation of the DET_TEST dataset. 
+    * evaluation.ipynb: Evaluation code to determine evaluation metrics of certain model. 
+    * partitions_bot.ipynb: Creation of the Bot-IoT dataset partitions. 
+    * partitions_det.ipynb: Creation of the UNSW-NB15 dataset partitions. 
 
 
 ## References 
